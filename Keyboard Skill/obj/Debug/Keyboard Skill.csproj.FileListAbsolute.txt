@@ -1,0 +1,9 @@
+D:\Projects\Visual Studio\Fun\Keyboard Skill\Keyboard Skill\bin\Debug\Keyboard Skill.exe.config
+D:\Projects\Visual Studio\Fun\Keyboard Skill\Keyboard Skill\obj\Debug\Keyboard Skill.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\Fun\Keyboard Skill\Keyboard Skill\obj\Debug\Keyboard_Skill.Form1.resources
+D:\Projects\Visual Studio\Fun\Keyboard Skill\Keyboard Skill\obj\Debug\Keyboard_Skill.Properties.Resources.resources
+D:\Projects\Visual Studio\Fun\Keyboard Skill\Keyboard Skill\obj\Debug\Keyboard Skill.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\Fun\Keyboard Skill\Keyboard Skill\bin\Debug\Keyboard Skill.exe
+D:\Projects\Visual Studio\Fun\Keyboard Skill\Keyboard Skill\bin\Debug\Keyboard Skill.pdb
+D:\Projects\Visual Studio\Fun\Keyboard Skill\Keyboard Skill\obj\Debug\Keyboard Skill.exe
+D:\Projects\Visual Studio\Fun\Keyboard Skill\Keyboard Skill\obj\Debug\Keyboard Skill.pdb
